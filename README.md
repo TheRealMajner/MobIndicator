@@ -1,6 +1,6 @@
 # MobIndicator
 
-Highligh mobs with this easy to use plugin only op can use commands.
+Highligh mobs while attacking them with this easy to use plugin only op can use commands.
 Colors are the same for all players.
 
 ![image](https://github.com/user-attachments/assets/cbefb53a-bf62-426b-bcf4-9496e1212c5f)
